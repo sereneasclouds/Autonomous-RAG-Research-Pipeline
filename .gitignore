@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Vector database (auto-generated)
+chroma_db/
+
+# Generated output
+research_report.md
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
